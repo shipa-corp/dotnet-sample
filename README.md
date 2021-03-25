@@ -4,7 +4,7 @@ This is .NET core sample based on [this tutorial](https://dotnet.microsoft.com/l
 
 ## .NET Core installation
 
-Installed from .Net Core [download site](https://dotnet.microsoft.com/download/dotnet-core/3.1)
+Installed from .Net Core [download site](https://dotnet.microsoft.com/download/dotnet-core/5.0)
 
 ## Build and Run locally
 
